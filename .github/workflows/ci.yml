@@ -13,7 +13,7 @@ jobs:
   host-lib:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y cmake g++
@@ -27,7 +27,7 @@ jobs:
   host-tests:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Install dependencies
         run: sudo apt-get update && sudo apt-get install -y cmake g++
@@ -48,7 +48,7 @@ jobs:
     runs-on: ubuntu-latest
     container: espressif/idf:release-v5.2
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
 
       - name: Build demo_controller
         run: |
