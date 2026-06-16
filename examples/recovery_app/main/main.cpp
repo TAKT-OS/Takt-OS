@@ -9,13 +9,13 @@
 
 extern "C" void app_main(void) {
     takt::drivers::Platform::init();
-    takt::TAKT_LOGI("RecoveryApp", "TAKT OS Recovery v0.2.0");
+    TAKT_LOGI("RecoveryApp", "TAKT OS Recovery v0.2.0");
 
     auto& recovery = takt::recovery::RecoveryManager::instance();
     recovery.init(takt::recovery::RecoveryChannel::WiFi);
     recovery.onProgress([](uint32_t rx, uint32_t total, auto state) {
-        takt::TAKT_LOGI("RecoveryApp", "DFU %u/%u state=%u",
-                        rx, total, static_cast<uint8_t>(state));
+        TAKT_LOGI("RecoveryApp", "DFU %u/%u state=%u",
+                  rx, total, static_cast<uint8_t>(state));
     });
     recovery.run();
 }
