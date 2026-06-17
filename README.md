@@ -21,7 +21,7 @@
 
 **Deterministic takt scheduling for industrial ESP32 firmware**
 
-[Docs](docs/README.md) · [Changelog](CHANGELOG.md) · [Issues](https://github.com/Developer-RU/Takt-OS/issues)
+[Docs](docs/README.md) · [Changelog](CHANGELOG.md) · [Sponsor](https://github.com/sponsors/Developer-RU) · [Issues](https://github.com/Developer-RU/Takt-OS/issues)
 
 </div>
 
@@ -230,7 +230,8 @@ From [`tools/partitions.csv`](tools/partitions.csv) (also in `examples/demo_cont
 ## Author
 
 **Masyukov Pavel** — [p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)  
-Developer and maintainer of TAKT OS.
+Developer and maintainer of TAKT OS.  
+[Sponsor on GitHub](https://github.com/sponsors/Developer-RU) · [SPONSORING.md](SPONSORING.md)
 
 ---
 
