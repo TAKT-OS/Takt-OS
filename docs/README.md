@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Documentation
+permalink: /
 ---
 
 <div class="docs-hero">
