@@ -1,8 +1,24 @@
-# TAKT OS Documentation
+---
+layout: default
+title: Documentation
+---
+
+<div class="docs-hero">
+  <a href="https://github.com/Developer-RU/Takt-OS">
+    <img src="https://raw.githubusercontent.com/Developer-RU/Takt-OS/main/docs/assets/takt-os-banner.svg" alt="TAKT OS — Industrial cycle-based RTOS for ESP32">
+  </a>
+</div>
+
+<p class="docs-nav">
+  <a href="https://github.com/Developer-RU/Takt-OS">Repository</a> ·
+  <a href="https://github.com/Developer-RU/Takt-OS/wiki">Wiki</a> ·
+  <a href="https://github.com/Developer-RU/Takt-OS/blob/main/CHANGELOG.md">Changelog</a> ·
+  <a href="https://github.com/Developer-RU/Takt-OS/blob/main/SPONSORING.md">Sponsor</a>
+</p>
 
 > **Developer:** Masyukov Pavel · [p.masyukov@gmail.com](mailto:p.masyukov@gmail.com) · **License:** [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE)
 
-Single source of project documentation. **GitHub Wiki** ([`wiki/Home.md`](wiki/Home.md)) is navigation-only with links here — no duplicate content.
+Single source of project documentation. **GitHub Wiki** is [navigation only](https://github.com/Developer-RU/Takt-OS/wiki) with links here — no duplicate content.
 
 ## Getting started
 
@@ -53,9 +69,9 @@ Single source of project documentation. **GitHub Wiki** ([`wiki/Home.md`](wiki/H
 | [certification.md](certification.md) | Test matrix |
 | [licensing.md](licensing.md) | License and attribution |
 | [modules.md](modules.md) | Module catalog |
-| [../SECURITY.md](../SECURITY.md) | Security |
-| [../CONTRIBUTING.md](../CONTRIBUTING.md) | Contributing |
-| [../CHANGELOG.md](../CHANGELOG.md) | Version history |
+| [SECURITY.md](https://github.com/Developer-RU/Takt-OS/blob/main/SECURITY.md) | Security |
+| [CONTRIBUTING.md](https://github.com/Developer-RU/Takt-OS/blob/main/CONTRIBUTING.md) | Contributing |
+| [CHANGELOG.md](https://github.com/Developer-RU/Takt-OS/blob/main/CHANGELOG.md) | Version history |
 
 ## Build after cloning
 
@@ -72,9 +88,9 @@ CMake paths are **relative**. Do not commit `build/`, `.pio/`, or `sdkconfig`.
 
 | File | Purpose |
 |------|---------|
-| [../LICENSE](../LICENSE) | Apache 2.0 |
-| [../NOTICE](../NOTICE) | Third-party components |
-| [../CODE_OF_CONDUCT.md](../CODE_OF_CONDUCT.md) | Code of conduct |
+| [LICENSE](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) | Apache 2.0 |
+| [NOTICE](https://github.com/Developer-RU/Takt-OS/blob/main/NOTICE) | Third-party components |
+| [CODE_OF_CONDUCT.md](https://github.com/Developer-RU/Takt-OS/blob/main/CODE_OF_CONDUCT.md) | Code of conduct |
 
 ---
 

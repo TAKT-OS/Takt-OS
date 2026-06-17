@@ -1,13 +1,13 @@
 # Licensing guide
 
-TAKT OS is distributed under the [Apache License 2.0](../LICENSE).
+TAKT OS is distributed under the [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE).
 
 ## For users (copying TAKT OS)
 
 1. Keep `LICENSE` and `NOTICE` in your distribution.
 2. Add attribution in README, docs, or product **About** screen.
 3. Document modifications.
-4. Respect ESP-IDF and other third-party licenses in [NOTICE](../NOTICE).
+4. Respect ESP-IDF and other third-party licenses in [NOTICE](https://github.com/Developer-RU/Takt-OS/blob/main/NOTICE).
 
 Example `README` snippet:
 
@@ -21,7 +21,7 @@ See NOTICE for Espressif ESP-IDF and other components.
 
 ## For contributors
 
-- New code you submit is Apache 2.0 (see [CONTRIBUTING.md](../CONTRIBUTING.md)).
+- New code you submit is Apache 2.0 (see [CONTRIBUTING.md](https://github.com/Developer-RU/Takt-OS/blob/main/CONTRIBUTING.md)).
 - Do not commit proprietary or incompatible-licensed code.
 - If you port code from another open-source project, verify license compatibility and add entry to `NOTICE`.
 

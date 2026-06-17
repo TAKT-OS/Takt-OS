@@ -36,7 +36,7 @@ esp_partition_find_first(
     "recovery");
 ```
 
-**Important:** Only one `factory` subtype partition is allowed — recovery uses `test` subtype. See [partition table](../../tools/partitions.csv).
+**Important:** Only one `factory` subtype partition is allowed — recovery uses `test` subtype. See [partition table](https://github.com/Developer-RU/Takt-OS/blob/main/tools/partitions.csv).
 
 ## Depends on
 

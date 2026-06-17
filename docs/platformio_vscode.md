@@ -50,7 +50,7 @@ idf.py -p PORT flash monitor
 - `build/`, `.pio/` — build artifacts
 - `sdkconfig`, `sdkconfig.old` — contain machine-specific paths
 
-See [.gitignore](../.gitignore).
+See [.gitignore](https://github.com/Developer-RU/Takt-OS/blob/main/.gitignore).
 
 ---
 

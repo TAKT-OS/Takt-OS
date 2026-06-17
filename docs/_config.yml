@@ -1,0 +1,47 @@
+# Jekyll / GitHub Pages — https://developer-ru.github.io/Takt-OS/
+# Publish source: branch main, folder /docs (Settings → Pages)
+
+title: TAKT OS
+description: Industrial cycle-based RTOS for ESP32 — takt scheduler, Modbus, MQTT, OTA
+logo: assets/takt-os-icon.svg
+
+url: https://developer-ru.github.io
+baseurl: /Takt-OS
+
+remote_theme: pages-themes/cayman@v0.2.0
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+show_downloads: true
+
+github:
+  repository: Developer-RU/Takt-OS
+  zip_url: https://github.com/Developer-RU/Takt-OS/archive/refs/heads/main.zip
+  tar_url: https://github.com/Developer-RU/Takt-OS/archive/refs/heads/main.tar.gz
+
+# Repo root files are not published — link via github.com in markdown.
+repo_url: https://github.com/Developer-RU/Takt-OS
+
+exclude:
+  - wiki
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default

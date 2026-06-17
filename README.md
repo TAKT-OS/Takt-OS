@@ -14,14 +14,14 @@
 [![PlatformIO](https://img.shields.io/badge/PlatformIO-ready-f5822a?style=for-the-badge&logo=platformio&logoColor=white)](docs/platformio_vscode.md)
 [![FreeRTOS](https://img.shields.io/badge/runtime-FreeRTOS-7e57c2?style=for-the-badge)](https://www.freertos.org/)
 
-[![Docs](https://img.shields.io/badge/documentation-full-64748b?style=for-the-badge&logo=readthedocs&logoColor=white)](docs/README.md)
+[![Docs](https://img.shields.io/badge/documentation-full-64748b?style=for-the-badge&logo=readthedocs&logoColor=white)](https://developer-ru.github.io/Takt-OS/)
 [![Wiki](https://img.shields.io/badge/wiki-navigation-181717?style=for-the-badge&logo=github&logoColor=white)](docs/wiki/Home.md)
 [![CI](https://img.shields.io/github/actions/workflow/status/Developer-RU/Takt-OS/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white)](https://github.com/Developer-RU/Takt-OS/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
 
 **Deterministic takt scheduling for industrial ESP32 firmware**
 
-[Docs](docs/README.md) · [Changelog](CHANGELOG.md) · [Sponsor](https://github.com/sponsors/Developer-RU) · [Issues](https://github.com/Developer-RU/Takt-OS/issues)
+[Docs](https://developer-ru.github.io/Takt-OS/) · [Changelog](CHANGELOG.md) · [Sponsor](https://github.com/sponsors/Developer-RU) · [Issues](https://github.com/Developer-RU/Takt-OS/issues)
 
 </div>
 
@@ -207,7 +207,7 @@ Component reference: [docs/components/](docs/components/) · File map: [docs/sou
 
 | | |
 |---|---|
-| [docs/README.md](docs/README.md) | Full documentation (primary source) |
+| [docs/README.md](docs/README.md) | Documentation source (also on [GitHub Pages](https://developer-ru.github.io/Takt-OS/)) |
 | [docs/wiki/Home.md](docs/wiki/Home.md) | Wiki: navigation index |
 | [docs/faq.md](docs/faq.md) | Frequently asked questions |
 | [CHANGELOG.md](CHANGELOG.md) | Version history |

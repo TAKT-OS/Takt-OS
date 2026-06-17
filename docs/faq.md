@@ -30,7 +30,7 @@ This is by design: recovery is 256 KB. Build `recovery_app`, not the full `demo_
 
 ## How do I attribute TAKT OS in a product?
 
-See [licensing.md](licensing.md) and [NOTICE](../NOTICE).
+See [licensing.md](licensing.md) and [NOTICE](https://github.com/Developer-RU/Takt-OS/blob/main/NOTICE).
 
 ## Where is the API reference?
 
@@ -38,7 +38,7 @@ See [licensing.md](licensing.md) and [NOTICE](../NOTICE).
 
 ## What should not be committed to git?
 
-`build/`, `.pio/`, `sdkconfig` — they contain machine-specific paths. See [.gitignore](../.gitignore).
+`build/`, `.pio/`, `sdkconfig` — they contain machine-specific paths. See [.gitignore](https://github.com/Developer-RU/Takt-OS/blob/main/.gitignore).
 
 ---
 
