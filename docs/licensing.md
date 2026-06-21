@@ -1,27 +1,27 @@
 # Licensing guide
 
-TAKT OS is distributed under the [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE).
+TAKT OS is distributed under the [Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE).
 
 ## For users (copying TAKT OS)
 
 1. Keep `LICENSE` and `NOTICE` in your distribution.
 2. Add attribution in README, docs, or product **About** screen.
 3. Document modifications.
-4. Respect ESP-IDF and other third-party licenses in [NOTICE](https://github.com/Developer-RU/Takt-OS/blob/main/NOTICE).
+4. Respect ESP-IDF and other third-party licenses in [NOTICE](https://github.com/TAKT-OS/Takt-OS/blob/main/NOTICE).
 
 Example `README` snippet:
 
 ```markdown
 ## Third-party software
 
-This firmware is based on [TAKT OS](https://github.com/Developer-RU/Takt-OS),
+This firmware is based on [TAKT OS](https://github.com/TAKT-OS/Takt-OS),
 Copyright 2024-2026 Masyukov Pavel, Apache License 2.0.
 See NOTICE for Espressif ESP-IDF and other components.
 ```
 
 ## For contributors
 
-- New code you submit is Apache 2.0 (see [CONTRIBUTING.md](https://github.com/Developer-RU/Takt-OS/blob/main/CONTRIBUTING.md)).
+- New code you submit is Apache 2.0 (see [CONTRIBUTING.md](https://github.com/TAKT-OS/Takt-OS/blob/main/CONTRIBUTING.md)).
 - Do not commit proprietary or incompatible-licensed code.
 - If you port code from another open-source project, verify license compatibility and add entry to `NOTICE`.
 
@@ -33,7 +33,7 @@ For **new** files:
 // Copyright 2024-2026 Masyukov Pavel <p.masyukov@gmail.com>
 // SPDX-License-Identifier: Apache-2.0
 //
-// TAKT OS — https://github.com/Developer-RU/Takt-OS
+// TAKT OS — https://github.com/TAKT-OS/Takt-OS
 ```
 
 For **adapted** third-party files, retain original copyright and add:
@@ -59,4 +59,4 @@ Apache 2.0 does not grant trademark rights to "TAKT OS".
 
 ---
 
-**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/Developer-RU/Takt-OS)
+**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/TAKT-OS/Takt-OS)

@@ -30,7 +30,7 @@ This is by design: recovery is 256 KB. Build `recovery_app`, not the full `demo_
 
 ## How do I attribute TAKT OS in a product?
 
-See [licensing.md](licensing.md) and [NOTICE](https://github.com/Developer-RU/Takt-OS/blob/main/NOTICE).
+See [licensing.md](licensing.md) and [NOTICE](https://github.com/TAKT-OS/Takt-OS/blob/main/NOTICE).
 
 ## Where is the API reference?
 
@@ -38,8 +38,8 @@ See [licensing.md](licensing.md) and [NOTICE](https://github.com/Developer-RU/Ta
 
 ## What should not be committed to git?
 
-`build/`, `.pio/`, `sdkconfig` — they contain machine-specific paths. See [.gitignore](https://github.com/Developer-RU/Takt-OS/blob/main/.gitignore).
+`build/`, `.pio/`, `sdkconfig` — they contain machine-specific paths. See [.gitignore](https://github.com/TAKT-OS/Takt-OS/blob/main/.gitignore).
 
 ---
 
-**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/Developer-RU/Takt-OS)
+**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/TAKT-OS/Takt-OS)

@@ -13,7 +13,7 @@ title: Home
   <a href="{{ '/developer_guide/' | relative_url }}">Quick Start</a> ·
   <a href="{{ '/architecture/' | relative_url }}">Architecture</a> ·
   <a href="{{ '/api_reference/' | relative_url }}">API Reference</a> ·
-  <a href="https://github.com/Developer-RU/Takt-OS/releases">Releases</a> ·
+  <a href="https://github.com/TAKT-OS/Takt-OS/releases">Releases</a> ·
   <a href="{{ site.repo_url }}">GitHub</a>
 </p>
 
@@ -31,7 +31,7 @@ title: Home
 ## Quick Start
 
 ```bash
-git clone https://github.com/Developer-RU/Takt-OS.git
+git clone https://github.com/TAKT-OS/Takt-OS.git
 cd Takt-OS/examples/demo_controller
 source $IDF_PATH/export.sh
 idf.py set-target esp32
@@ -44,7 +44,7 @@ idf.py -p PORT flash monitor
 | Reference app | `examples/demo_controller` |
 | Recovery app | `examples/recovery_app` |
 | Partition table | `examples/demo_controller/partitions.csv` |
-| Prebuilt firmware | [GitHub Releases](https://github.com/Developer-RU/Takt-OS/releases) |
+| Prebuilt firmware | [GitHub Releases](https://github.com/TAKT-OS/Takt-OS/releases) |
 
 ## Documentation
 
@@ -74,8 +74,8 @@ idf.py -p PORT flash monitor
 
 ## Downloads
 
-Firmware binaries and source archives are attached to **[GitHub Releases](https://github.com/Developer-RU/Takt-OS/releases)** (tag `v*`). There is no separate package registry — ESP32 firmware is distributed as release artifacts.
+Firmware binaries and source archives are attached to **[GitHub Releases](https://github.com/TAKT-OS/Takt-OS/releases)** (tag `v*`). There is no separate package registry — ESP32 firmware is distributed as release artifacts.
 
 ## License
 
-[Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) · Developer: **Masyukov Pavel** · [Sponsor](https://github.com/sponsors/Developer-RU)
+[Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE) · Developer: **Masyukov Pavel** · [Sponsor](https://github.com/sponsors/Developer-RU)

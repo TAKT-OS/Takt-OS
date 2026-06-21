@@ -1,16 +1,16 @@
-# GitHub Pages — https://developer-ru.github.io/Takt-OS/
+# GitHub Pages — https://takt-os.github.io/Takt-OS/
 # Deploy: GitHub Actions workflow .github/workflows/pages.yml
 
 title: TAKT OS
 description: Industrial cycle-based RTOS for ESP32 — takt scheduler, Modbus, MQTT, OTA
-version: "0.2.2"
+version: "0.2.3"
 
-url: https://developer-ru.github.io
+url: https://takt-os.github.io
 baseurl: /Takt-OS
 
-repo_url: https://github.com/Developer-RU/Takt-OS
-issues_url: https://github.com/Developer-RU/Takt-OS/issues
-releases_url: https://github.com/Developer-RU/Takt-OS/releases
+repo_url: https://github.com/TAKT-OS/Takt-OS
+issues_url: https://github.com/TAKT-OS/Takt-OS/issues
+releases_url: https://github.com/TAKT-OS/Takt-OS/releases
 
 markdown: GFM
 permalink: pretty
@@ -66,5 +66,5 @@ nav:
   - title: Licensing
     url: /licensing/
   - title: Releases
-    url: https://github.com/Developer-RU/Takt-OS/releases
+    url: https://github.com/TAKT-OS/Takt-OS/releases
     external: true

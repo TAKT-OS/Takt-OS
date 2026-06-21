@@ -3,7 +3,7 @@
 ## Quick Start
 
 1. Install the **PlatformIO IDE** extension (`platformio.platformio-ide`).
-2. Clone the repository: `git clone https://github.com/Developer-RU/Takt-OS.git`
+2. Clone the repository: `git clone https://github.com/TAKT-OS/Takt-OS.git`
 3. Open `Takt-OS.code-workspace` (or the `examples/demo_controller` folder).
 4. In the PlatformIO sidebar: **Build** → **Upload** → **Monitor**.
 
@@ -50,8 +50,8 @@ idf.py -p PORT flash monitor
 - `build/`, `.pio/` — build artifacts
 - `sdkconfig`, `sdkconfig.old` — contain machine-specific paths
 
-See [.gitignore](https://github.com/Developer-RU/Takt-OS/blob/main/.gitignore).
+See [.gitignore](https://github.com/TAKT-OS/Takt-OS/blob/main/.gitignore).
 
 ---
 
-**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/Developer-RU/Takt-OS)
+**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/TAKT-OS/Takt-OS)

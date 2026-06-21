@@ -6,8 +6,8 @@ authors:
   - family-names: Masyukov
     given-names: Pavel
     email: p.masyukov@gmail.com
-repository-code: https://github.com/Developer-RU/Takt-OS
-url: https://developer-ru.github.io/Takt-OS/
+repository-code: https://github.com/TAKT-OS/Takt-OS
+url: https://takt-os.github.io/Takt-OS/
 license: Apache-2.0
 version: 0.2.0
 keywords:

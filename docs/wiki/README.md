@@ -12,7 +12,7 @@ The TAKT OS wiki is **navigation only**. Documentation text lives in [`docs/`](.
 ## Import to GitHub
 
 ```bash
-git clone https://github.com/Developer-RU/Takt-OS.wiki.git
+git clone https://github.com/TAKT-OS/Takt-OS.wiki.git
 cp docs/wiki/Home.md Takt-OS.wiki/
 cp docs/wiki/_Sidebar.md Takt-OS.wiki/
 cd Takt-OS.wiki
@@ -29,4 +29,4 @@ When adding a new file under `docs/`, update the tables in `Home.md` and `_Sideb
 
 ---
 
-**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/Developer-RU/Takt-OS)
+**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/TAKT-OS/Takt-OS)

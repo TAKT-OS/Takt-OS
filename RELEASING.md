@@ -1,6 +1,6 @@
 # Releasing TAKT OS
 
-Firmware and source archives are published as **[GitHub Releases](https://github.com/Developer-RU/Takt-OS/releases)**. There is no separate package registry (npm/Maven) — ESP32 binaries ship as release attachments.
+Firmware and source archives are published as **[GitHub Releases](https://github.com/TAKT-OS/Takt-OS/releases)**. There is no separate package registry (npm/Maven) — ESP32 binaries ship as release attachments.
 
 ## Versioning
 
@@ -8,7 +8,7 @@ Follow [Semantic Versioning](https://semver.org/) and update [CHANGELOG.md](CHAN
 
 ## Create a release
 
-1. Ensure `main` is green in [CI](https://github.com/Developer-RU/Takt-OS/actions).
+1. Ensure `main` is green in [CI](https://github.com/TAKT-OS/Takt-OS/actions).
 2. Bump `version` in `docs/_config.yml` and badges in `README.md` if needed.
 3. Commit changelog for the new version.
 4. Tag and push:
@@ -38,7 +38,7 @@ Documentation deploys via [.github/workflows/pages.yml](.github/workflows/pages.
 
 **Repository → Settings → Pages → Build and deployment:** select **GitHub Actions** (not legacy `/docs` only).
 
-Live site: https://developer-ru.github.io/Takt-OS/
+Live site: https://takt-os.github.io/Takt-OS/
 
 ## Manual release (fallback)
 

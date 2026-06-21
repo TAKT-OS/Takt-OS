@@ -179,8 +179,8 @@ See `sdk/include/takt_sdk.h` and [components/sdk_lite.md](components/sdk_lite.md
 
 ## License
 
-API documentation © 2024-2026 Masyukov Pavel. Code licensed under [Apache 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE). When reusing snippets, attribute the source — see [licensing.md](licensing.md).
+API documentation © 2024-2026 Masyukov Pavel. Code licensed under [Apache 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE). When reusing snippets, attribute the source — see [licensing.md](licensing.md).
 
 ---
 
-**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/Developer-RU/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/Developer-RU/Takt-OS)
+**TAKT OS** — Developer: **Masyukov Pavel** ([p.masyukov@gmail.com](mailto:p.masyukov@gmail.com)) · License: [Apache License 2.0](https://github.com/TAKT-OS/Takt-OS/blob/main/LICENSE) · [Source](https://github.com/TAKT-OS/Takt-OS)
