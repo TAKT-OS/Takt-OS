@@ -40,3 +40,6 @@ __pycache__/
 *.bin
 *.map
 .DS_Store
+
+# GitHub Wiki (nested git repo — publish from Takt-OS.wiki/)
+Takt-OS.wiki/

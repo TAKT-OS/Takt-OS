@@ -24,7 +24,6 @@ relative_links:
   collections: true
 
 exclude:
-  - wiki
   - Gemfile
   - Gemfile.lock
   - vendor

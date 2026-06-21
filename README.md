@@ -16,7 +16,7 @@
 
 [![Docs](https://img.shields.io/badge/documentation-GitHub%20Pages-38bdf8?style=for-the-badge&logo=readthedocs&logoColor=white)](https://takt-os.github.io/Takt-OS/)
 [![Release](https://img.shields.io/github/v/release/TAKT-OS/Takt-OS?style=for-the-badge&logo=github&label=Release)](https://github.com/TAKT-OS/Takt-OS/releases)
-[![Wiki](https://img.shields.io/badge/wiki-navigation-181717?style=for-the-badge&logo=github&logoColor=white)](docs/wiki/Home.md)
+[![Wiki](https://img.shields.io/badge/wiki-navigation-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TAKT-OS/Takt-OS/wiki)
 [![CI](https://img.shields.io/github/actions/workflow/status/TAKT-OS/Takt-OS/ci.yml?branch=main&style=for-the-badge&label=CI&logo=githubactions&logoColor=white)](https://github.com/TAKT-OS/Takt-OS/actions)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-8b5cf6?style=for-the-badge&logo=github&logoColor=white)](CONTRIBUTING.md)
 
@@ -195,7 +195,8 @@ Takt-OS/
 ├── sdk/              C API (takt_sdk.h)
 ├── lite/             Reduced-footprint kernel
 ├── targets/          esp32s3 / esp32c3 sdkconfig.defaults
-├── docs/             Architecture, API, wiki, assets
+├── Takt-OS.wiki/     GitHub Wiki (separate git repo)
+├── docs/             Architecture, API, assets
 ├── tools/            partitions.csv, test scripts
 └── tests/            Host GTest suite
 ```
@@ -210,7 +211,7 @@ Component reference: [docs/components/](docs/components/) · File map: [docs/sou
 |---|---|
 | [docs/README.md](docs/README.md) | Documentation source ([GitHub Pages](https://takt-os.github.io/Takt-OS/)) |
 | [RELEASING.md](RELEASING.md) | Version tags, firmware release artifacts |
-| [docs/wiki/Home.md](docs/wiki/Home.md) | Wiki: navigation index |
+| [Takt-OS.wiki/Home.md](Takt-OS.wiki/Home.md) | Wiki: navigation index ([live](https://github.com/TAKT-OS/Takt-OS/wiki)) |
 | [docs/faq.md](docs/faq.md) | Frequently asked questions |
 | [CHANGELOG.md](CHANGELOG.md) | Version history |
 
